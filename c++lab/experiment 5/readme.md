@@ -1,1 +1,1 @@
-write a C++ program to declare Struct. Initialize and display contents of member Variables.
+Write a C++ program to declare a class declare pointer to class. Initialize and display the contents of the class member.
